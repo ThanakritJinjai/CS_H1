@@ -1,0 +1,30 @@
+﻿      ManchesterUnited 
+--------First-team squad-------------
+1.  GK	 David de Gea
+2.  DF	 Victor Lindelöf
+3.  DF	 Eric Bailly
+4.  DF	 Phil Jones
+5.  MF	 Paul Pogba
+6.  FW	 Alexis Sánchez
+7.  MF	 Juan Mata
+8.  FW	 Romelu Lukaku
+9.  FW	 Marcus Rashford
+10.FW	Anthony Martial
+11.DF	Chris Smalling
+12.GK	Lee Grant
+13.MF	Jesse Lingard
+14.MF	Andreas Pereira
+15.DF	Marcos Rojo
+16.MF	Fred
+17.DF	Ashley Young
+18.DF	Diogo Dalot
+19.MF	Ander Herrera
+20.GK	Sergio Romero
+21.DF	Luke Shaw
+22.DF	Antonio Valencia (captain)
+23.MF	Marouane Fellaini
+24.MF	Nemanja Matić
+25.DF	Matteo Darmian
+26.MF	Scott McTominay
+27.GK	Joel Castro Pereira
+----------------------------------------------

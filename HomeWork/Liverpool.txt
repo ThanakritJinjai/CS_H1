@@ -1,0 +1,27 @@
+                     Liverpool
+------------------First-team squad----------------------
+1.  MF	Fabinho
+2.  DF	Virgil van Dijk (third-captain)
+3.  MF	Georginio Wijnaldum (fourth-captain)
+4.  DF	Dejan Lovren
+5.  MF	James Milner (vice-captain)
+6.  MF	Naby Ke?ta
+7.  FW	Roberto Firmino
+8.  FW	Sadio Man?
+9.  FW	Mohamed Salah
+10.DF	Joe Gomez
+11.GK	Alisson
+12.MF	Jordan Henderson (captain)
+13.FW	Daniel Sturridge
+14.DF	Alberto Moreno
+15.MF	Adam Lallana
+16.MF	Alex Oxlade-Chamberlain
+17.GK	Simon Mignolet
+18.MF	Xherdan Shaqiri
+19.DF	Andrew Robertson
+20.FW	Divock Origi
+21.DF	Jo?l Matip
+22.MF	Lazar Markovi?
+23.MF	Rafael Camacho
+24.DF	Trent Alexander-Arnold
+--------------------------------------------------------
